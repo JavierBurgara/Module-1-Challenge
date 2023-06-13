@@ -56,11 +56,12 @@ p {
     background-position: center;
 }
 
+/* makes the left container move and max or min image size*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* makes the right container move and max or min image size*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -71,7 +72,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* controls the images size and text    */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -82,7 +83,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* asign px size and color of image for benefit */
 .benefit{
     margin-bottom: 32px;
     color: #ffffff;
@@ -99,6 +100,7 @@ p {
     max-width: 150px;
 }
 
+/* controls the color, font, and size of the text*/
 .subject {
     margin-bottom: 20px;
     padding: 50px;
@@ -116,7 +118,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* controls footer heading */
 .footer {
     padding: 30px;
     clear: both;
