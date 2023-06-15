@@ -1,3 +1,5 @@
+# HTML,CSS
+
 # Descripiton
 This project was to shorten my code in CSS. Use semantic HTML elements and have the proper structure of HTML elements in place. When you view image elements make sure they have accessible alt attributes and heading attributes. Have the proper title elements and concise, descriptive title.
 
